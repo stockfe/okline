@@ -1,0 +1,25 @@
+{
+  "name": "okline",
+  "version": "0.0.1",
+  "description": "pluggable, data-driven canvas kline worker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stockfe/okline.git"
+  },
+  "keywords": [
+    "kline",
+    "canvas",
+    "data-driven",
+    "pluggable"
+  ],
+  "author": "latelx64@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/stockfe/okline/issues"
+  },
+  "homepage": "https://github.com/stockfe/okline#readme"
+}
